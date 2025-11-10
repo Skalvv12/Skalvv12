@@ -10,6 +10,5 @@ I've also self-studied DL and computer science:
 - Algorithms & data structures  
 
 
-
-Previous degree: Finance (Ukraine).  
+Finance background (Ukraine)
 
